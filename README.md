@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Moe Counter](https://count.getloli.com/@coolife-code?theme=moebooru)
+
 <!--
 **coolife-code/coolife-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
