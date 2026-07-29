@@ -6,18 +6,18 @@
   <img src="https://count.getloli.com/@coolife-code?theme=moebooru" alt="Moe Counter" />
 </p>
 
-## GitHub Stats
+## GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coolife-code&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=coolife-code&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coolife-code&theme=radical" alt="GitHub Streak" />
-</p>
-
-## Tech Stack
+## Contribution Snake
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode" alt="Tech Stack" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coolife-code/coolife-code/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/coolife-code/coolife-code/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/coolife-code/coolife-code/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
