@@ -38,7 +38,8 @@ jobs:
             git checkout --orphan output
           fi
           cp -r dist/. .
-          rm -rf dist
+          chmod -R +w dist || true
+          rm -rf dist || sudo rm -rf dist
           git add .
           git commit -m "Generate snake" || echo "No changes to commit"
           git push origin output --force
